@@ -1,0 +1,23 @@
+{
+  "saved_on": "2024-12-11T09:54:39.577Z",
+  "PokemiltonMaster": {
+    "name": "marc",
+    "pokemiltonCollection": [
+      {
+        "name": "RobFré",
+        "level": 1,
+        "experienceMeter": 0,
+        "attackRange": 6,
+        "defenseRange": 3,
+        "healthPool": 0,
+        "maxHealthPool": 11,
+        "catchPhrase": "RobFré! RobFré! is ready to roll!"
+      }
+    ],
+    "healingItems": 11,
+    "reviveItems": 6,
+    "POKEBALLS": 11
+  },
+  "day": 18,
+  "logs": []
+}

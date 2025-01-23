@@ -1,0 +1,18 @@
+{
+  "name": "02-01-mastering-javascript-variables",
+  "version": "1.0.0",
+  "description": "## Key Learning Points:",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/becodeorg/02-01-Mastering-Javascript-Variables/issues"
+  },
+  "homepage": "https://github.com/becodeorg/02-01-Mastering-Javascript-Variables#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

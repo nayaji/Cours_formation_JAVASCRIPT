@@ -1,0 +1,16 @@
+{
+  "name": "27-recap-js-pokemilton-najib-nico",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "readline-sync": "^1.4.10"
+  }
+}
