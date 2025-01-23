@@ -1,0 +1,14 @@
+{
+  "name": "09-02-practicing-classes-and-this",
+  "version": "1.0.0",
+  "description": "A robust object-oriented design hinges on thoughtful exposure of an object's internals. Exposing an object involves making its properties available to the outside world, forming its public interface. Conversely, methods accessible only within the object itself constitute its private interface. A guiding principle is to expose only what is necessary for external interaction.",
+  "main": "bankAccount.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

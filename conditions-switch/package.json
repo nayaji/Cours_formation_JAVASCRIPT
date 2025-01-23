@@ -1,0 +1,14 @@
+{
+  "name": "07-01-control-flow-conditional-statements-if-else",
+  "version": "1.0.0",
+  "description": "This assignment aims to reinforce the understanding and usage of the 'if...else' statements in JavaScript.",
+  "main": "07-01-control-flow-conditional-statements-if-else.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
